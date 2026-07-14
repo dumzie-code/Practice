@@ -6,7 +6,8 @@ start_1=input('What is your user name ?',  )
 print("Welcome home", start_1)
 
 # # #Practice Q2
-Age= input("How old are you?" )
+def Age():
+  Age= input("How old are you?" )
 print(Age)
 
 # # #Practice Q3
