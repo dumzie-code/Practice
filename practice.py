@@ -2,8 +2,8 @@
 
 def start():
   print("Welcome to python island")
-start=input('What is your user name ?',  )
-print("Welcome home", start)
+start_1=input('What is your user name ?',  )
+print("Welcome home", start_1)
 
 # # #Practice Q2
 Age= input("How old are you?" )
