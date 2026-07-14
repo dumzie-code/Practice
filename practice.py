@@ -2,7 +2,7 @@
 
 def start():
   print("Welcome to python island")
-start_1=input('What is your user name ?',  )
+start=input('What is your user name ?',  )
 print("Welcome home", start_1)
 
 # # #Practice Q2
